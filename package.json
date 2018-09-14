@@ -1,0 +1,26 @@
+{
+  "name": "puppet",
+  "version": "1.0.0",
+  "description": "puppet usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikailcetinkaya/puppet.git"
+  },
+  "keywords": [
+    "puppet",
+    "chrome"
+  ],
+  "author": "Mikail Çetinkaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikailcetinkaya/puppet/issues"
+  },
+  "homepage": "https://github.com/mikailcetinkaya/puppet#readme",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
