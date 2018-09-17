@@ -1,7 +1,11 @@
 const puppeteer = require('puppeteer');
-let soru=1;
+const fs= require('fs');
+
+var soru=1;
 let data=[];
+let hint=[];
 let base="file:///Users/mikail/Downloads/Bilsem%202018%20Final/uygulamaveorneksınav/";
+let hintbase="./hint.txt"
 let entry=base+"orn10.html";
 var browser , page;
 
@@ -19,10 +23,38 @@ async function getImageArr(imgs){
   var i=[];
   for (let index = 0; index < imgs.length; index++) {
     const element = imgs[index];
-    var e={};    
-    e["src"]=await getAttribute(element, 'src');
-    e.box=await element.boundingBox();
+       
+    var cls=await getAttribute(element, 'className');
+    
+    var box=await element.boundingBox();
+    if((box.x<0 ) || (box.y<0))      continue;
+    
+    var e={}; 
+
+    e.box=box;
+
+    if(cls==null || cls=="block"){
+      e["src"]=await getAttribute(element, 'src');
+      i.push(e);
+      continue;
+    }
+
+    var shadowIndex=cls.indexOf("shadow");
+    var img=await element.$$('img');
+    
+    if(shadowIndex<0 && img.length==0) continue;
+    else if(shadowIndex>-1 && img.length==0)
+    {
+      if(cls!=null && cls.indexOf("nonblock")>-1 ) continue;
+      var dd=await getAttribute(element, 'innerHTML');
+      if(dd.indexOf("simple")>-1) continue;
+      e["src"]="placeholder.png"+index;
+    }
+    else{
+      e["src"]=await getAttribute(img[0], 'src');
+    }
     i.push(e);
+    
   }
   return i;
 }
@@ -37,26 +69,35 @@ async function analyze(ss){
     
 
     var answer=content.indexOf('title=');
-    if (s.singlePage== null && answer>0) {
+    if (s.singlePage== null && answer>-1) {
         s.answer=content.substring(answer+7,answer+8);
         s.singlePage=true;
-        s.answerImgs=await getImageArr(imgs);
-        await gotoHref(nonblocks[0]);
-
+        if(shadowed.length>0){
+          s.questionImgs=await getImageArr(shadowed);
+        }else if(imgs.length>0){
+          s.questionImgs=await getImageArr(imgs);
+        }
+    }
+    else if(s.singlePage!= null && !s.singlePage)
+    {
+       s.answer=content.substring(answer+7,answer+8);
+       if(shadowed.length>0){
+          s.answerImgs=await getImageArr(shadowed);
+        }else if(imgs.length>0){
+          s.answerImgs=await getImageArr(imgs);
+        }
     }
     else
     {
         s.singlePage=false;
         if(shadowed.length>0){
-          s.answerImgs=await getImageArr(imgs);
-          await gotoHref(nonblocks[0]);
-          
+          s.questionImgs=await getImageArr(shadowed);
         }else if(imgs.length>0){
           s.questionImgs=await getImageArr(imgs);
-          await gotoHref(nonblocks[0]);
-
         }
     }
+    
+    await gotoHref(nonblocks[0]);
   } catch (error) {
     console.log(error);
   }

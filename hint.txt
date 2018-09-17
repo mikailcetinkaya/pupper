@@ -1,0 +1,1902 @@
+
+
+ ./q1.1-q1.15.txt 
+İnfo: Gördüğünüzü unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q10.1-q10.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q11.1-q11.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q12.1-q12.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q13.1-q13.15.txt 
+İnfo: Gördüğünüz şeklin tüm detaylarını hatırlayın !
+Hint: -
+
+++++++++++++
+
+ ./q14.1-q14.15.txt 
+İnfo: Gördüğünüz şeklin tüm detaylarını hatırlayın !
+Hint: -
+
+++++++++++++
+
+ ./q15.1-q15.15.txt 
+İnfo: Şekiller,sayılar arasındaki eşleşmeyi ve sıralarını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q16.1-q16.15.txt 
+İnfo: Şekiller,sayılar arasındaki eşleşmeyi ve sıralarını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q17.1-q17.15.txt 
+İnfo: Şekiller,sayılar arasındaki eşleşmeyi ve sıralarını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q18.1-q18.15.txt 
+İnfo: Şekiller,sayılar arasındaki eşleşmeyi ve sıralarını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q19.1-q19.15.txt 
+İnfo: Şekiller,sayılar arasındaki eşleşmeyi ve sıralarını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q2.1-q2.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q20.1-q20.15.txt 
+İnfo: Şekiller,sayılar arasındaki eşleşmeyi ve sıralarını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q21.1.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Kalemle neye yazılır ?
+
+++++++++++++
+
+ ./q21.10.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Hangisi ot yer ?
+++++++++++++
+
+ ./q21.11.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Futbolcu hangi topla oynar ?
+++++++++++++
+
+ ./q21.12.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Hangisi ağaçta yetişir?
+++++++++++++
+
+ ./q21.13.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Hangi taş fil gibi hareket eder ?
+++++++++++++
+
+ ./q21.14.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Üçü kutuplarda biri her yerde.
+++++++++++++
+
+ ./q21.15.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Tek sayı.
+++++++++++++
+
+ ./q21.2.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: İçinde sıvı olan sıvı dolu kaba damlar.
+
+++++++++++++
+
+ ./q21.3.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Şekeri kim yer ?
+++++++++++++
+
+ ./q21.4.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Kedi ne içer ?
+++++++++++++
+
+ ./q21.5.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Suda kim yüzer ?
+++++++++++++
+
+ ./q21.6.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Şişelerle kim deney yapar ?
+++++++++++++
+
+ ./q21.7.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Kitaplar nerede durur ?
+++++++++++++
+
+ ./q21.8.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: :Bilgisayarın neyi eksik ?
+++++++++++++
+
+ ./q21.9.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Hangi kuş uçabilir ?
+++++++++++++
+
+ ./q22.1.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Bebek değil.
+++++++++++++
+
+ ./q22.10.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Mühendis orada çalışır.
+++++++++++++
+
+ ./q22.11.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Gülün arkadaşı güldür.
+++++++++++++
+
+ ./q22.12.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Gemi üstünde yüzer.
+++++++++++++
+
+ ./q22.13.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Tavşan onu çok sever.
+++++++++++++
+
+ ./q22.14.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Çantayı taşır.
+++++++++++++
+
+ ./q22.15.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Ağaçta yetişir.
+++++++++++++
+
+ ./q22.2.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Ciğeri var nefes alır.
+++++++++++++
+
+ ./q22.3.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Üstüne resim yapılır.
+++++++++++++
+
+ ./q22.4.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Spor ayakkabıyla oynanır.
+++++++++++++
+
+ ./q22.5.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Kedi onu yer.
+++++++++++++
+
+ ./q22.6.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Hamburgerin yanında güzel olur.
+++++++++++++
+
+ ./q22.7.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Çiçekten alır bal yapar.
+++++++++++++
+
+ ./q22.8.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: Araba yokken o hız yapardı.
+++++++++++++
+
+ ./q22.9.txt 
+İnfo: Üstte verilen objeyle ilişkili diğer objeyi bulunuz.
+Hint: İnek tadını çok sever.
+++++++++++++
+
+ ./q23.1.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Klavye nereye yazar.
+++++++++++++
+
+ ./q23.10.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Aşçı ne kullanır ?
+++++++++++++
+
+ ./q23.11.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: B Alfabenin kaçıncı harfi ? rengine dikkat !
+++++++++++++
+
+ ./q23.12.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: B den sonra gelir,2 den sonra gelir ,renge dikkat ! 
+++++++++++++
+
+ ./q23.13.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: 1 den sonra gelir,2 den sonra gelir,A dan sonra gelir renk değişir.
+++++++++++++
+
+ ./q23.14.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: B den sonra gelir 2 den sonra gelir C den sonra gelir renkler değişmez.
+++++++++++++
+
+ ./q23.15.txt 
+İnfo:Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: 5 ten sonraki tek sayı ve 7 den sonraki teksayı harflerde 2 ileri renkler aynı.
+++++++++++++
+
+ ./q23.2.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: İnsana nefes aldırır.
+++++++++++++
+
+ ./q23.3.txt 
+İnfo:Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Evde ne yaşar.
+++++++++++++
+
+ ./q23.4.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Tabak içinde ne olur.
+++++++++++++
+
+ ./q23.5.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Masanın ayrılmaz arkadaşı.
+++++++++++++
+
+ ./q23.6.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Denizde yaşar.
+++++++++++++
+
+ ./q23.7.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Orman neyden oluşur?
+++++++++++++
+
+ ./q23.8.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Film nerede seyredilir ?
+++++++++++++
+
+ ./q23.9.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Doktor ne verir ?
+++++++++++++
+
+ ./q24.1.txt 
+İnfo:Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Güneşi saatle kiloyu neyle takip ederiz?
+++++++++++++
+
+ ./q24.10.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Elbisenin yeri neresidir?
+++++++++++++
+
+ ./q24.11.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Muzun ağırlığı ne kadar ?
+++++++++++++
+
+ ./q24.12.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Kelebeğin ilk hali.
+++++++++++++
+
+ ./q24.13.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Bisikletliyi kazadan korur.
+++++++++++++
+
+ ./q24.14.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Köpek balığına güç verir.
+++++++++++++
+
+ ./q24.15.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Araba nerede sergilenir ?
+++++++++++++
+
+ ./q24.2.txt 
+İnfo:Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Tohumlar ağaç olur,bebekler ne olur?
+++++++++++++
+
+ ./q24.3.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Güneşten insanı ne korur ?
+++++++++++++
+
+ ./q24.4.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Bebeğe enerji verir.
+++++++++++++
+
+ ./q24.5.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Resimler albüme,yumurtalar nereye?
+++++++++++++
+
+ ./q24.6.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Gemi rotasını nasıl bulur?
+++++++++++++
+
+ ./q24.7.txt 
+İnfo:Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Tohumdan ağaç,yumurtadan ne çıkar?
+++++++++++++
+
+ ./q24.8.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Bizi güneşten korur.
+++++++++++++
+
+ ./q24.9.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Ağaca enerji verir.
+++++++++++++
+
+ ./q25.1.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Masa sandalyesiz bateri onsuz olmaz.
+++++++++++++
+
+ ./q25.10.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Yağmur varsa güneş yok.
+++++++++++++
+
+ ./q25.11.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Heykel onunla yapılır.
+++++++++++++
+
+ ./q25.12.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Birbirine benzer biri büyük diğeri küçük.
+++++++++++++
+
+ ./q25.13.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Soğuktan korur seni.
+++++++++++++
+
+ ./q25.14.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Saate güç verir.
+++++++++++++
+
+ ./q25.15.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Yağmur bitkiyi besler.
+++++++++++++
+
+ ./q25.2.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Kedi aslana benzer,kedi küçük aslan büyük .
+++++++++++++
+
+ ./q25.3.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Denizde boğulmaktan kurtarır can simidi , o ise yere çakılmaktan.
+++++++++++++
+
+ ./q25.4.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Arabanın kalbidir.
+++++++++++++
+
+ ./q25.5.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Denizdekiler limana,karadakiler nereye.
+++++++++++++
+
+ ./q25.6.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Bateriyi kim çalar? Resmi kim yapar?
+++++++++++++
+
+ ./q25.7.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Aslan kediye benzer biri büyük diğeri küçük.
+++++++++++++
+
+ ./q25.8.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Uzayda korur bizi.
+++++++++++++
+
+ ./q25.9.txt 
+İnfo: Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+Hint: Buluta hareket verir.
+++++++++++++
+
+ ./q26.1-26.15.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./q27.1-27.15.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./q28.1-28.15.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./q29.1-29.15.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./q3.1-q3.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q30.1-30.15.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./q31.1-31.15.txt 
+İnfo: Şekiller siyaha boyandığında oluşan yeni görüntüyü bulunuz.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./q32.1-32.15.txt 
+İnfo: Şekiller siyaha boyandığında oluşan yeni görüntüyü bulunuz.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./q33.1-33.15.txt 
+İnfo: Hangi şekillerin birleşimi soruda verilen görüntüyü oluşturur.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./q34.1-34.15.txt 
+İnfo: Hangi şekillerin birleşimi soruda verilen görüntüyü oluşturur.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./q35.1-35.15.txt 
+İnfo: Hangi şekillerin birleşimi soruda verilen görüntüyü oluşturur.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./q36.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Aynı türden elmaların sayısını bulunuz.
+++++++++++++
+
+ ./q36.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Üç ok her satırda. 1 ok her satırda ...
+++++++++++++
+
+ ./q36.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 3 renk.Üç ok her satırda. 1 ok her satırda ...
+++++++++++++
+
+ ./q36.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3 say.2. sütunda şekil diğer kenara geçer.3. sütunda diğer kenara.
+++++++++++++
+
+ ./q36.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3 say.Bir sonraki hücrede sağdaki kenara geç.
+++++++++++++
+
+ ./q36.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3 say.Bir sonraki hücrede soldaki kenara geç.2 kırmız 1 sarı lacivert.
+++++++++++++
+
+ ./q36.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3 say.Her şekil her satırda bulunur.Önce sağdaki kenara boncuk gelir.
+++++++++++++
+
+ ./q36.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her şekilden ve her renkten kaçar tane var ?
+
+++++++++++++
+
+ ./q36.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Hangi meyveden kaçar tane var ?
+
+++++++++++++
+
+ ./q36.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Sırası karışık olabilir, hangi yiyecekten kaçar tane var ?
+++++++++++++
+
+ ./q36.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Hangi meyveden kaçar tane var ?
+++++++++++++
+
+ ./q36.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Aynı türden şekiller 2 şer artıyor.
+++++++++++++
+
+ ./q36.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Aynı türden elmalardan kaçar tane var ?
+
+++++++++++++
+
+ ./q36.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırdaki üçgenin her kenarında boncuk var sayıları birer artar.
+++++++++++++
+
+ ./q36.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 3 farklı renk. Her satırda her üçgen kenarında boncuk var. Sırayla artar.
+++++++++++++
+
+ ./q37.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kırmızı her satırda , daire her satırda.
+++++++++++++
+
+ ./q37.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda ortada renkler aynı.Küçükler karşılıklı renk değiştirir.
+++++++++++++
+
+ ./q37.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda ortada 3 farklı renk var.Küçükler karşılıklı renk değiştirir.
+++++++++++++
+
+ ./q37.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Sarı kırmızı yapraklar biri aşağı diğeri yukarı hareket ediyor.
+++++++++++++
+
+ ./q37.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Sarı sağa hareket eder mor bekler.Mor hareket eder sarı bekler.
+++++++++++++
+
+ ./q37.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 1. mor aşağı hareket eder 2. mor bekler. 2.mor yukarı hareket eder 1. bekler.
+++++++++++++
+
+ ./q37.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Sarı sola hareket eder.1. mor aşağı hareket eder 2. mor bekler. 2.mor yukarı hareket eder 1. bekler.
+++++++++++++
+
+ ./q37.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 6 renk eksikleri tamamla.Her satırda 3 şekil eksiği bul.
+++++++++++++
+
+ ./q37.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 3 renk.Oklar sağa doğru dairesel dönüyor.
+++++++++++++
+
+ ./q37.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Pembe önce sağda sonra solda,kırmızı önce sağda sonra solda ...
+++++++++++++
+
+ ./q37.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her şekilden 3 er tane var.
+++++++++++++
+
+ ./q37.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Sarı başta,ortada,sonda.Lacivert başta,ortada,sonda...
+++++++++++++
+
+ ./q37.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Turuncu yaprak, üstte,ortada,altta ...
+++++++++++++
+
+ ./q37.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Lacivert altıgen,üstte,ortada,altta ...
+++++++++++++
+
+ ./q37.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Ortada renkler aynı.Küçükler çapraz renk değiştirir.
+++++++++++++
+
+ ./q38.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Siyah kare sağa doğru hareket ediyor.
+++++++++++++
+
+ ./q38.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Oklar dairesel hareket eder.Arkadaki renk öne geçer.
+++++++++++++
+
+ ./q38.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Üstteki kare sağa alttaki sola hareket eder.
+++++++++++++
+
+ ./q38.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Üstteki kare sağa alttaki sola hareket eder.Üst satırda 3,alt satırda 3 farklı renk var.
+++++++++++++
+
+ ./q38.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Bir dolu,bir boş.Pizza dilimi dairesel hareket ediyor.
+++++++++++++
+
+ ./q38.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Pizza dilimi dairesel hareket eder.Dilim 3 farklı renk.Göz 3 farklı renk.
+++++++++++++
+
+ ./q38.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Pizza dilimi dairesel hareket eder.Dilim 3 farklı renk,göz 3 renk,dolgu 3 renk.
+++++++++++++
+
+ ./q38.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kare sağa hareket eder.Her satırda 3 renk var.
+++++++++++++
+
+ ./q38.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Ok dairesel hareket ediyor.
+++++++++++++
+
+ ./q38.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Ok dairesel hareket ediyor.Her satırda 3 renk var.
+++++++++++++
+
+ ./q38.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Ok üstte,ortada,altta.Her satırda 3 renk var.
+++++++++++++
+
+ ./q38.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Bir ok sağa, diğeri yukarı çekerse sağ çapraza giderim.
+++++++++++++
+
+ ./q38.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Bir ok sol çapraza diğer ok sağ çapraza çekerse yukarı giderim.
+++++++++++++
+
+ ./q38.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Bir ok yukarı sol çapraza diğeri aşağı sol çapraza çerkerse sola giderim.Her satırda 3 renk var. 
+++++++++++++
+
+ ./q38.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Oklar dairesel hareket eder.Arkadaki renk öne geçer.
+++++++++++++
+
+ ./q39.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Tek çizgi başta,ortada,sonda.
+++++++++++++
+
+ ./q39.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Üstteki kare sağa alttaki sola hareket eder.
+++++++++++++
+
+ ./q39.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kareler sağa doğru hareket eder sınıra gelen alta geçer.
+++++++++++++
+
+ ./q39.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kareler pervane gibi döner.
+++++++++++++
+
+ ./q39.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kutuları simetrik doldur.
+++++++++++++
+
+ ./q39.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Bir kare boya bir kare atla. Her satırda 3 renk var.
+++++++++++++
+
+ ./q39.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Bir kare boya bir kare atla. Her satırda 3 renk var.Siyah kare sola doğru hareket eder.
+++++++++++++
+
+ ./q39.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Tek çizgi başta,ortada,sonda.Her satırda 3 renk var.
+++++++++++++
+
+ ./q39.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Çizgiler sağa doğru hareket ediyor.Her satırda 3 farklı renk var.
+++++++++++++
+
+ ./q39.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kareler oklar nereye isterse oraya gider.
+++++++++++++
+
+ ./q39.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Oklar ne derse daire onu yapar.Her satırda 3 renk var.
+++++++++++++
+
+ ./q39.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Oklar ne isterse şekiller onu yapar.Her satırda 3 renk var.
+++++++++++++
+
+ ./q39.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Top duvardan duvara çarparak gezer.Her satırda 3 renk var.
+++++++++++++
+
+ ./q39.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Top duvardan duvara çarparak gezer.Her satırda masada 3 topta 3 renk var.
+++++++++++++
+
+ ./q39.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 1. yi 2. ile birleştir ortak olan kalsın.
+++++++++++++
+
+ ./q4.1-q4.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q40.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekli birleştir.
+++++++++++++
+
+ ./q40.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q40.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q40.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Sarıyı sarıyla birleştir kırmızıyı kırmızıyla.Renkler çakışırsa çıkar.
+++++++++++++
+
+ ./q40.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekilleri birleştir.
+++++++++++++
+
+ ./q40.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekilde ortak olanları al.
+++++++++++++
+
+ ./q40.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q40.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekli birleştir.Her satırda 3 renk var.
+++++++++++++
+
+ ./q40.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekli otadan birleştir.
+++++++++++++
+
+ ./q40.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2. şekli 1. şeklin üstüne koy.
+++++++++++++
+
+ ./q40.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekilleri çevirmeden birleştir.
+++++++++++++
+
+ ./q40.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 3 şekil. Her satırda aynı çizgi.Her satırda 3 desen.
+++++++++++++
+
+ ./q40.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 0,1,2 kare. Üst iki kare aynı desen.
+++++++++++++
+
+ ./q40.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.Desenleri çakıştır.
+++++++++++++
+
+ ./q40.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her adımda şekli çevir.
+++++++++++++
+
+ ./q41.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekilde ortak olanı bul.
+++++++++++++
+
+ ./q41.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q41.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q41.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.Her satırda 3 renk var.
+++++++++++++
+
+ ./q41.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İkinci kareyi sola çevir birinciyle birleştir.Her satırda 3 renk var.
+++++++++++++
+
+ ./q41.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Çerçeveyi tamamla.
+++++++++++++
+
+ ./q41.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Çerçeveyi tamamla.
+++++++++++++
+
+ ./q41.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekilde farklı olanları birleştir.
+++++++++++++
+
+ ./q41.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q41.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir sola çevir.
+++++++++++++
+
+ ./q41.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q41.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q41.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q41.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.Renkleri ötele.
+++++++++++++
+
+ ./q41.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir.
+++++++++++++
+
+ ./q42.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekli birleştir çakışanları sil.
+++++++++++++
+
+ ./q42.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Dikdörtgen içinde kutu yatay,dikey,çapraz.
+++++++++++++
+
+ ./q42.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Az,yarım,tam.Hersatırda 3 renk var.Her satırda 3 şekil var.
+++++++++++++
+
+ ./q42.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 2 çember,2 üçgen...,Her satırda 3 renk.
+++++++++++++
+
+ ./q42.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekil dışarda,sınırda,içeride.2 çember ,2 üçgen,2 kare,her satırda 3 renk.
+++++++++++++
+
+ ./q42.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Bir çubuk çevir,ona bağlantılı diğer çubuğu çevir.
+++++++++++++
+
+ ./q42.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekilleri birleştir çakışanları sil.Her satırda 3 renk var.
+++++++++++++
+
+ ./q42.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekilleri birleştir,çakışanları sil.
+++++++++++++
+
+ ./q42.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekilleri birleştir,çakışanlar kalsın.
+++++++++++++
+
+ ./q42.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekilleri birleştir,çakışanlar kalsın.
+++++++++++++
+
+ ./q42.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekilleri birleştir,çakışanları sil.
+++++++++++++
+
+ ./q42.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekilleri birleştir,çakışanları sil.
+++++++++++++
+
+ ./q42.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekilleri birleştir,çakışanlar kalsın.
+++++++++++++
+
+ ./q42.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekilleri birleştir,çakışanları sil.
+++++++++++++
+
+ ./q42.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekilleri birleştir,çakışanları sil.
+++++++++++++
+
+ ./q43.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekilleri birleştri.Ortak rengi kaldır.
+++++++++++++
+
+ ./q43.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2. sütunda dikdörtgenle x i birleştir dolgularını değiştir.
+++++++++++++
+
+ ./q43.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 3 şekil,3 renk her şekil her rengi alır.
+++++++++++++
+
+ ./q43.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 3 şekil,3 renk her şekil her rengi alır.Ok çıktığı istikamette gezer.
+++++++++++++
+
+ ./q43.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Saat gibi düşün bir sonraki noktaya git.
+++++++++++++
+
+ ./q43.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Saat gibi düşün bir sonraki noktaya git.
+++++++++++++
+
+ ./q43.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kare sağa hareket eder.Bir dolu,bir boş.Çizgi hep aynı yerde. 
+++++++++++++
+
+ ./q43.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2.sütundaki şeklin içine hiç bir şeklin içine girmemiş olan girer.
+++++++++++++
+
+ ./q43.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2.Sütunda gösterilen yönde renk değiştir.
+++++++++++++
+
+ ./q43.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her adımda çapraz istikamette hareket ederek kareleri doldur.
+++++++++++++
+
+ ./q43.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Köşegen boyunca şekillerin kenar sayısı 4,5,?
+++++++++++++
+
+ ./q43.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekillerin rengini değiştir.Küçüğün içine büyüğü al.
+++++++++++++
+
+ ./q43.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kırmızı kare karenin üstünde başta,ortada,sonda.Karenin ortasında başta,ortada,sonda...
+++++++++++++
+
+ ./q43.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kırmızı kare ve sarı daire karenin üstünde başta,ortada,sonda.Karenin ortasında başta,ortada,sonda...
+++++++++++++
+
+ ./q43.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kırmızı kare ve sarı daire karenin üstünde başta,ortada,sonda.Karenin ortasında başta,ortada,sonda...
+++++++++++++
+
+ ./q44.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekilleri birleştir.
+++++++++++++
+
+ ./q44.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2. parçayı birinciden sil.
+++++++++++++
+
+ ./q44.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2. sütuna göre simetri al!
+++++++++++++
+
+ ./q44.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 
+++++++++++++
+
+ ./q44.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Üst üste altıgenler önce biraz sonra tamamen ayır!
+++++++++++++
+
+ ./q44.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekli önce çevir sonra bük!
+++++++++++++
+
+ ./q44.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Aynada simetri.
+++++++++++++
+
+ ./q44.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Sarı yaprağın önce dikey sonra yatay simetrisini al.
+++++++++++++
+
+ ./q44.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekillerin üstü kapalı,yarı açık, açık. Her şekil her satırda.
+++++++++++++
+
+ ./q44.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2,3,4-3,4,5,...
+++++++++++++
+
+ ./q44.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Ayna simetrisi.
+++++++++++++
+
+ ./q44.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her adımda bir parçasını sil.
+++++++++++++
+
+ ./q44.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Önce yarısını sonra tamamını dikey tara.
+++++++++++++
+
+ ./q44.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 3 tane yalnız nokta,3 tane tek dikdörtgenli nokta...
+++++++++++++
+
+ ./q45.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şeklin önce tabanını sonra sol kenarını eğ!
+++++++++++++
+
+ ./q45.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Parçalar birbiriyle birleşebilmeli.Her satırda 3 renk var.
+++++++++++++
+
+ ./q45.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 1. Sütun kırmızı başta,ortada,sonda.2 sütun mor başta,ortada,sonda...Her satırda 2 kırmızı,2 yeşil,..tüm hücreler 2 defa kullanılmış.
+++++++++++++
+
+ ./q45.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 3 çeşit kafa ,3 çeşit etek var,kafalar ve etekler 3'er çeşit renk. 
+++++++++++++
+
+ ./q45.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Sarı halka dairesel döner.Kırmızı,mor bir ters bir düz.
+++++++++++++
+
+ ./q45.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekil yavaş yavaş dairesel döner.
+++++++++++++
+
+ ./q45.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Parçalar birbirini tamamlar.Her satırda 3 renk var.
+++++++++++++
+
+ ./q45.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir!
+++++++++++++
+
+ ./q45.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Izgarada boyanmayan dilimi bul !
+++++++++++++
+
+ ./q45.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda her şekil kafa ve etek  bir defa bulunur.
+++++++++++++
+
+ ./q45.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekil dairesel döner.Dıştaki renk içe en içteki dışa gider.
+++++++++++++
+
+ ./q45.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Izgarada boyanmayan dilimi bul.Her satırda 3 renk var.
+++++++++++++
+
+ ./q45.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 3 çeşit kafa ,3 çeşit etek var.
+++++++++++++
+
+ ./q45.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Kırmızı ile başlayan 3 tane ...
+++++++++++++
+
+ ./q45.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Parçalar birbiriyle birleşebilmeli.
+++++++++++++
+
+ ./q46.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2. sütunda gösterilen taşların rengini değiştir!
+++++++++++++
+
+ ./q46.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 1.sütunla 2. sütunu birleştir çakışanları al!
+++++++++++++
+
+ ./q46.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Üçgen sol alt köşede,sağ alt köşede,sağ üst köşede ... Her renk her satırda var.
+++++++++++++
+
+ ./q46.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint:  Dörtgen,çember,altıgen her satırda var.Çarpı,artı,yıldız her satırda var.Her satırda 3 renk var.
+++++++++++++
+
+ ./q46.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 1.sütunla 2. sütunu birleştir çakışmayanları al!
+++++++++++++
+
+ ./q46.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 1.sütunla 2. sütunu birleştir çakışanları al!
+++++++++++++
+
+ ./q46.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint:  1.sütunla 2. sütunu birleştir çakışanları bölgeleri sil!
+++++++++++++
+
+ ./q46.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 1.ve 2. sütunlarda çaprazda duran ortak olanlara dikkat !
+++++++++++++
+
+ ./q46.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Üçgen sol alt köşede,sağ alt köşede,sağ üst köşede ...
+++++++++++++
+
+ ./q46.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Dörtgen,çember,altıgen her satırda var.Çarpı,artı,yıldız her satırda var.
+++++++++++++
+
+ ./q46.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: İki şekli birleştir çakışan bölgeleri sil !
+++++++++++++
+
+ ./q46.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2. sütunda gösterilen taşlar dursun,diğer ikisinin rengini değiştir.
+++++++++++++
+
+ ./q46.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Üçgen sol alt köşede,sağ alt köşede,sağ üst köşede ... Her renk her satırda var.
+++++++++++++
+
+ ./q46.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Dörtgen,çember,altıgen her satırda var.Çarpı,artı,yıldız her satırda var.Her satırda 3 renk var.
+++++++++++++
+
+ ./q46.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 1.sütunla 2. sütunu birleştir çakışmayanları al!
+++++++++++++
+
+ ./q47.1.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Dikdörtgen her satırda 3 şekilde bölünmüş.Her satırda aynı 6 şekil var. 
+++++++++++++
+
+ ./q47.10.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint:  Birinci sütun ile ikinci sütunu birleştir,üst üste gelen topları sil!Her satırda 3 renk var. 
+++++++++++++
+
+ ./q47.11.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Dikdörtgen her satırda 3 şekilde bölünmüş.Her satırda aynı 6 şekil var. 
+++++++++++++
+
+ ./q47.12.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3 . Her satırda 3 yön 2 defa var. 
+++++++++++++
+
+ ./q47.13.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3.Her satırda 3 tip uçak.Her satırda 3 renk kanat,3 renk gövde var.  
+++++++++++++
+
+ ./q47.14.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Minik top kenarları sırasıyla gezer.Her satırda 3 renk top,3 renk dikdörtgen var. 
+++++++++++++
+
+ ./q47.15.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci sütun ile ikinci sütunu birleştir,üst üste gelen topları sil!Her satırda 3 renk var.  
+++++++++++++
+
+ ./q47.2.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3 . Her satırda sağ,sol,yukarı.
+++++++++++++
+
+ ./q47.3.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3.Her satırda 3 tip uçak.
+++++++++++++
+
+ ./q47.4.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Minik top kenarları sırasıyla gezer.Her satırda 3 renkli dikdörtgen. 
+++++++++++++
+
+ ./q47.5.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci sütun ile ikinci sütunu birleştir,üst üste gelen topları sil! 
+++++++++++++
+
+ ./q47.6.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Dikdörtgen her satırda 3 şekilde bölünmüş.Her satırda aynı 6 şekil var. Her satırda 3 renk var. 
+++++++++++++
+
+ ./q47.7.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3 . Her satırda 4 yön var.
+++++++++++++
+
+ ./q47.8.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda 1,2,3.Her satırda 3 tip uçak.Her satırda 3 renk kanat var. 
+++++++++++++
+
+ ./q47.9.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Minik top kenarları sırasıyla gezer.
+++++++++++++
+
+ ./q48.1-q48.15.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Bir yüzeyin karşısına gelen renge dikkat edin.
+++++++++++++
+
+ ./q49.1-q49.15.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q5.1-q5.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q50.1.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.10.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.11.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.12.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Bir yüzeyin karşısına gelen renge dikkat edin.
+++++++++++++
+
+ ./q50.13.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.14.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.15.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.2.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Bir yüzeyin karşısına gelen renge dikkat edin.
+++++++++++++
+
+ ./q50.3.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Bir yüzeyin karşısına gelen renge dikkat edin.
+++++++++++++
+
+ ./q50.4.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.5.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.6.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.7.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Bir yüzeyin karşısına gelen renge dikkat edin.
+++++++++++++
+
+ ./q50.8.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q50.9.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./q51.1-q51.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q52.1-q52.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q53.1-q53.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q54.1-q54.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q55.1-q55.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q56.1-q56.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q57.1-q57.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q58.1-q58.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q59.1-q59.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q6.1-q6.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q60.1-q60.15.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./q7.1-q7.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q8.1-q8.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./q9.1-q9.15.txt 
+İnfo: Gördüğünüz objeleri ve sırasını unutmayın !
+Hint: -
+
+++++++++++++
+
+ ./orn-1.txt 
+Hint :-
+İnfo : İlk ekranda gördüğünüz objeyi ve detaylarını unutmayın.
+
+++++++++++++
+
+ ./orn-10.txt 
+Hint :Hatırlamak için desene benzet ikisi,üçü bir arada neye benziyor dikkat et!)
+İnfo :İlk ekranda gördüğünüz okların yönünü ve yerini unutmayın.
+++++++++++++
+
+ ./orn-11.txt 
+Hint :Hikayeleştirmek hatırlamana yardımcı olur.(ÖRN: Maymun ormanda papağan gördü...)
+İnfo :İlk ekranda gördüğünüz objeleri  ve yerini unutmayın.
+++++++++++++
+
+ ./orn-12.txt 
+Hint :Hikayeleştirmek hatırlamana yardımcı olur.
+İnfo :İlk ekranda gördüğünüz objeleri  ve yerini unutmayın.
+
+++++++++++++
+
+ ./orn-13.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz şekli tüm detaylarıyla hatırlayın.
+
+++++++++++++
+
+ ./orn-14.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz şekli tüm detaylarıyla hatırlayın.
+++++++++++++
+
+ ./orn-15.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz şekil ve sayı eşleşmelerini unutmayın.
+++++++++++++
+
+ ./orn-16.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz şekil ve sayı eşleşmelerini unutmayın.
+++++++++++++
+
+ ./orn-17.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz şekil ve sayı eşleşmelerini unutmayın.
+++++++++++++
+
+ ./orn-18.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz şekil ve sayı eşleşmelerini unutmayın.
+++++++++++++
+
+ ./orn-19.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz şekil ve sayı eşleşmelerini unutmayın.
+
+++++++++++++
+
+ ./orn-2.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz objeleri ve detaylarını unutmayın.
+
+
+++++++++++++
+
+ ./orn-20.txt 
+Hint :
+İnfo :İlk ekranda gördüğünüz şekil ve sayı eşleşmelerini unutmayın.
+++++++++++++
+
+ ./orn-21.txt 
+Hint : Balık gibi yüzer.
+İnfo : Üstte verilen obje ile ilişkili olanı bulunuz.
+
+++++++++++++
+
+ ./orn-22.txt 
+Hint : Tekne nerede yüzer.
+İnfo : Üstte verilen obje ile ilişkili olanı bulunuz.
+
+++++++++++++
+
+ ./orn-23.txt 
+Hint : Aşçı ne kullanır.
+İnfo : Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+
+++++++++++++
+
+ ./orn-24.txt 
+Hint : Köpek balığına enerji verir.
+İnfo :Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+
+
+++++++++++++
+
+ ./orn-25.txt 
+Hint : Kar varsa ne yok?
+İnfo : Verilen ilk 2 objenin ilişki türü 3. objeyle hangisi arasındadır.
+
+
+++++++++++++
+
+ ./orn-26.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./orn-27.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./orn-28.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./orn-29.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./orn-3.txt 
+Hint : Hikayeleştirmek hatırlamana yardımcı olur.(ÖRN: Düşünen adam dilini çıkartırken gülmekten ağlıyordu)
+İnfo :İlk ekranda gördüğünüz emojileri ve detaylarını ve yerini unutmayın.
+
+
+++++++++++++
+
+ ./orn-30.txt 
+İnfo: Resmin eksik parçasını tamamlayınız.
+Hint: Dikdörtgenin kapattığı yerlerde eksik kalan şekillere dikkat!
+++++++++++++
+
+ ./orn-31.txt 
+İnfo: Şekiller siyaha boyandığında oluşan yeni görüntüyü bulunuz.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./orn-32.txt 
+İnfo: Şekiller siyaha boyandığında oluşan yeni görüntüyü bulunuz.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+
+++++++++++++
+
+ ./orn-33.txt 
+İnfo: Hangi şekillerin birleşimi soruda verilen görüntüyü oluşturur.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./orn-34.txt 
+İnfo: Hangi şekillerin birleşimi soruda verilen görüntüyü oluşturur.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./orn-35.txt 
+İnfo: Hangi şekillerin birleşimi soruda verilen görüntüyü oluşturur.
+Hint: Şeklin dış hattına ve kesiştikleri yerlere dikkat ediniz.
+++++++++++++
+
+ ./orn-36.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırdaki üçgenin her kenarında boncuk var sayıları birer artar.
+++++++++++++
+
+ ./orn-37.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her şekilden 3 er tane var.
+++++++++++++
+
+ ./orn-38.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Bir ok sağa, diğeri yukarı çekerse sağ çapraza giderim.:
+
+++++++++++++
+
+ ./orn-39.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Oklar ne derse daire onu yapar.Her satırda 3 renk var.
+++++++++++++
+
+ ./orn-4.txt 
+Hint :Hikayeleştirmek hatırlamana yardımcı olur.(ÖRN: Düşünen adam dilini çıkartırken gülmekten ağlıyordu)
+İnfo :İlk ekranda gördüğünüz emojilerin detaylarını ve yerini unutmayın.
+
+++++++++++++
+
+ ./orn-40.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekli birleştir.
+++++++++++++
+
+ ./orn-41.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekli birleştir.
+++++++++++++
+
+ ./orn-42.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Birinci ve ikinci şekli birleştir.Çakışanları sil.
+++++++++++++
+
+ ./orn-43.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Şekillerin rengini değiştir.Küçüğün içine büyüğü al.
+++++++++++++
+
+ ./orn-44.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her adımda bir parçasını sil.
+++++++++++++
+
+ ./orn-45.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Her satırda her şekil kafa ve etek  bir defa bulunur.
+++++++++++++
+
+ ./orn-46.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: 2. sütunda gösterilen taşların rengini değiştir!
+++++++++++++
+
+ ./orn-47.txt 
+İnfo: Şekiller arasındaki örüntüyü bulunuz.
+Hint: Dikdörtgen her satırda 3 şekilde bölünmüş.Her satırda aynı 6 şekil var. 
+++++++++++++
+
+ ./orn-48.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Bir yüzeyin karşısına gelen renge dikkat edin.
+++++++++++++
+
+ ./orn-49.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./orn-5.txt 
+Hint :Hikayeleştirmek hatırlamana yardımcı olur.(ÖRN: Düşünen adam dilini çıkartırken gülmekten ağlıyordu)
+İnfo :İlk ekranda gördüğünüz emojilerin detaylarını ve yerini unutmayın.
+
+++++++++++++
+
+ ./orn-50.txt 
+İnfo: Açınımı verilen küpün kapalı halini bulunuz. 
+Hint: Şekli katlamaya başladığınızda  değişen yönlerine dikkat edin.
+++++++++++++
+
+ ./orn-51.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-52.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-53.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-54.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-55.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-56.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-57.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-58.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-59.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-6.txt 
+Hint :Hikayeleştirmek hatırlamana yardımcı olur.(ÖRN: siyah dörtgen mavi altıgen kardeşmiş turuncu kuzene gitmişler ...)
+İnfo :İlk ekranda gördüğünüz şekilleri,renklerini ve yerini unutmayın.
+
+++++++++++++
+
+ ./orn-60.txt 
+İnfo: Verilen metinden yola çıkarak soruları cevaplayınız.
+Hint: -
+++++++++++++
+
+ ./orn-7.txt 
+Hint :Hikayeleştirmek hatırlamana yardımcı olur.(ÖRN: siyah dörtgen mavi altıgen kardeşmiş turuncu kuzene gitmişler ...)
+İnfo :İlk ekranda gördüğünüz şekilleri,renklerini ve yerini unutmayın.
+
+++++++++++++
+
+ ./orn-8.txt 
+Hint :Hikayeleştirmek hatırlamana yardımcı olur.(ÖRN: Çok kitabım vardı. Harfli kutulara koydum baskete gittim...)
+İnfo :İlk ekranda gördüğünüz objeleri  ve yerini unutmayın.
+++++++++++++
+
+ ./orn-9.txt 
+Hint :Hikayeleştirmek hatırlamana yardımcı olur.(ÖRN: Bebek kedi sırtına bindi çocuk ikisinde kucakladı...)
+İnfo :İlk ekranda gördüğünüz objeleri  ve yerini unutmayın.
+++++++++++++
