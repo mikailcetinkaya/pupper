@@ -128,7 +128,7 @@ async function getQs(entry,qq)  {
 };
 
 (async () => {
-  for (let i = 16; i < qs.length; i++) {
+  for (let i = 28; i < qs.length; i++) {
     const element = qs[i];
     var entry=base+"0%20-%20Kopya%20("+element+")/q"+element+".1.html";
     await getQs(entry,element);
