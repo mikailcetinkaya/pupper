@@ -1,0 +1,302 @@
+[
+    {
+        "tur" :"Tekli obje",
+        "ekrnsrs" :10,
+        "cs": 30
+    },
+    {
+        "tur" :"İkili obje",
+        "ekrnsrs" :10,
+        "cs": 30
+    },
+    {
+        "tur" :"Üçlü obje",
+        "ekrnsrs" :10,
+        "cs": 45
+    },
+    {
+        "tur" :"Dörtlü obje",
+        "ekrnsrs" :15,
+        "cs": 45
+    },
+    {
+        "tur" :"Dörtlü obje",
+        "ekrnsrs" :15,
+        "cs": 45
+    },
+    {
+        "tur" :"Dörtlü obje",
+        "ekrnsrs" :15,
+        "cs": 45
+    },
+    {
+        "tur" :"Altılı obje",
+        "ekrnsrs" :25,
+        "cs": 45
+    },
+    {
+        "tur" :"Altılı obje",
+        "ekrnsrs" :25,
+        "cs": 45
+    },
+    {
+        "tur" :"Altılı obje",
+        "ekrnsrs" :25,
+        "cs": 45
+    },
+    {
+        "tur" :"Altılı obje",
+        "ekrnsrs" :25,
+        "cs": 45
+    },
+    {
+        "tur" :"Sekizli obje",
+        "ekrnsrs" :30,
+        "cs": 50
+    },
+    {
+        "tur" :"Sekizli obje",
+        "ekrnsrs" :30,
+        "cs": 50
+    },
+    {
+        "tur" :"Detay / Çizgi Hatırlama",
+        "ekrnsrs" :20,
+        "cs": 45
+    },
+    {
+        "tur" :"Detay /Çizgi Hatırlama",
+        "ekrnsrs" :20,
+        "cs": 45
+    },
+    {
+        "tur" :"Sıralı Örüntü",
+        "ekrnsrs" :20,
+        "cs": 45
+    },
+    {
+        "tur" :"Sıralı Örüntü",
+        "ekrnsrs" :20,
+        "cs": 45
+    },
+    {
+        "tur" :"Sıralı Örüntü",
+        "ekrnsrs" :30,
+        "cs": 50
+    },
+    {
+        "tur" :"Sıralı Örüntü",
+        "ekrnsrs" :25,
+        "cs": 50
+    },
+    {
+        "tur" :"Sıralı Örüntü",
+        "ekrnsrs" :30,
+        "cs": 50
+    },
+    {
+        "tur" :"Sıralı Örüntü",
+        "ekrnsrs" :30,
+        "cs": 50
+    },
+    {
+        "tur" :"İlişkilendirme",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"İlişkilendirme",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Sıralı İlişkilendirme",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Sıralı İlişkilendirme",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Sıralı İlişkilendirme",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Parça Bütün İlişkisi",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Parça Bütün İlişkisi",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Parça Bütün İlişkisi",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Parça Bütün İlişkisi",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Parça Bütün İlişkisi",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"İz Düşüm",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"İz Düşüm",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"İz Düşüm",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"İz Düşüm",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"İz Düşüm",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Düzen / Örüntü",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"3 Boyutlu Düşünme",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"3 Boyutlu Düşünme",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"3 Boyutlu Düşünme",
+        "ekrnsrs" :0,
+        "cs": 90
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :120,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :150,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :0,
+        "cs": 45
+    },
+    {
+        "tur" :"Metin Anlama",
+        "ekrnsrs" :0,
+        "cs": 45
+    }
+]

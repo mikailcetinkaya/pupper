@@ -1,13 +1,13 @@
 const puppeteer = require('puppeteer');
 const fs= require('fs');
 
-var soru=1;
 let data=[];
-let hint=[];
+
 let base="file:///Users/mikail/Downloads/Bilsem%202018%20Final/";
-let hintbase="./hint.txt"
-let entry=base+"orn10.html";
+
 var browser , page;
+
+var qs=[1 ,2 ,3, 4, 5, 6, 7 ,8 ,9, 10, 11 ,12 , 13 ,14, 21, 22 , 23, 24 ,25 ,51 ,52 ,53 ,54, 55, 56 ,57, 58, 59, 60 ];
 
 async function gotoHref(element){
   const href=await getAttribute(element, 'href');
@@ -106,23 +106,31 @@ async function analyze(ss){
   return s;
 }
 
-(async () => {
+async function getQs(entry,qq)  {
   browser = await puppeteer.launch({headless:false});
   page = await browser.newPage();
   await page.setViewport({width: 1024, height: 768});
   await page.goto(entry);
   var k;
-
-  while(soru<=60){
+  var test=1;
+  while(test<=15){
     k=await analyze();
     if(!k.singlePage){
       k=await analyze(k);
     }
-    k.soru=soru;
-    k.test=0;
+    k.soru=qq;
+    k.test=test;
     data.push(k);
-    soru++;
+    test++;
   }
   await browser.close();
   
+};
+
+(async () => {
+  for (let i = 16; i < qs.length; i++) {
+    const element = qs[i];
+    var entry=base+"0%20-%20Kopya%20("+element+")/q"+element+".1.html";
+    await getQs(entry,element);
+  }
 })();
