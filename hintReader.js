@@ -67,4 +67,6 @@ fs.readFile("hint.txt" , function(err, data) {
      i++;
    }
 
+   fs.writeFileSync('./hints.js', JSON.stringify(hints));
+
   });

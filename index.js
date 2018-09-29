@@ -4,11 +4,44 @@ const fs= require('fs');
 var soru=1;
 let data=[];
 let hint=[];
-let base="file:///Users/mikail/Downloads/Bilsem%202018%20Final/";
+let base="file:///Users/mikail/Downloads/Bilsem%202018%20Final/uygulamaveorneksınav/";
 let hintbase="./hint.txt"
 let entry=base+"orn10.html";
 var browser , page;
+function cluster(list){
+    var colorIndex = 0;
+    var g = list.sort(function(a,b){
+      if((a.box.y-15<=b.box.y)&&(b.box.y<=a.box.y+15)){
+        return a.box.x<b.box.x?-1:1;
+      }
+      return a.box.y<b.box.y?-1:1;
+      });
+    
+    for (var i = 0; i < g.length ; i++)
+    {
+        var x = g[i].box;
+        var colored = false;
+        for (var j =i-1 ; j >=0 ; j--)
+        {
+            var y = g[j].box; 
+            var vic = Math.ceil(Math.sqrt(y.height * y.width)/4);
+            if((y.x-vic <= x.x && y.x+y.width+vic >= x.x) &&
+                (y.y-vic <= x.y && y.y+y.height+vic >=x.y ))
+            {
+                colored = true;
+                x.cluster = y.cluster;
+                break;
+            } 
+        }
+        if (!colored) {
+            colorIndex++;
+            x.cluster = colorIndex;
+        }
+  
+    }
 
+    return g;
+}
 async function gotoHref(element){
   const href=await getAttribute(element, 'href');
   await page.goto(href);
@@ -73,27 +106,27 @@ async function analyze(ss){
         s.answer=content.substring(answer+7,answer+8);
         s.singlePage=true;
         if(shadowed.length>0){
-          s.questionImgs=await getImageArr(shadowed);
+          s.questionImgs=cluster(await getImageArr(shadowed));
         }else if(imgs.length>0){
-          s.questionImgs=await getImageArr(imgs);
+          s.questionImgs=cluster(await getImageArr(imgs));
         }
     }
     else if(s.singlePage!= null && !s.singlePage)
     {
        s.answer=content.substring(answer+7,answer+8);
        if(shadowed.length>0){
-          s.answerImgs=await getImageArr(shadowed);
+          s.answerImgs=cluster(await getImageArr(shadowed));
         }else if(imgs.length>0){
-          s.answerImgs=await getImageArr(imgs);
+          s.answerImgs=cluster(await getImageArr(imgs));
         }
     }
     else
     {
         s.singlePage=false;
         if(shadowed.length>0){
-          s.questionImgs=await getImageArr(shadowed);
+          s.questionImgs=cluster(await getImageArr(shadowed));
         }else if(imgs.length>0){
-          s.questionImgs=await getImageArr(imgs);
+          s.questionImgs=cluster(await getImageArr(imgs));
         }
     }
     
@@ -124,5 +157,5 @@ async function analyze(ss){
     soru++;
   }
   await browser.close();
-  
+  fs.writeFileSync('./ornek.json', JSON.stringify(data));
 })();

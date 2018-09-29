@@ -11,6 +11,7 @@ for (let i = 15; i <= 20 ; i++) {
            pics.push(i+'.'+j+'.1.png');
            pics.push(i+'.'+j+'.2.png');
            e.answerImgs=pics;
+           e.singlePage=false;
            pics=[];
            var r=Math.ceil(Math.random()*4);
            if(r==1){
@@ -50,8 +51,8 @@ for (let i = 26; i <= 50 ; i++) {
            e.soru=i;
            var pics=[];
            pics.push(i+'.'+j+'.1.png');
-           e.answerImgs=pics;
-           pics=[];
+           e.answerImgs=null;
+           e.singlePage=true;
            var r=Math.ceil(Math.random()*4);
            if(r==1){
                pics.push(i+'.'+j+'.2.png');
@@ -83,4 +84,4 @@ for (let i = 26; i <= 50 ; i++) {
         } 
     }
 
-var f;
+fs.writeFileSync('./sequnced.json', JSON.stringify(data));
