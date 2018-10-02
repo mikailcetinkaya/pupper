@@ -51,6 +51,12 @@ async function gotoHref(element){
 async function getAttribute(element,attribute){
   const gg=await element.getProperty(attribute);
   const jj=await gg.jsonValue();
+  if(attribute=='src'){
+      let srx=jj.replace("file:///Users/mikail/Downloads/Bilsem%202018%20Final/0%20-%20Kopya%20(","../../../assets/data/").replace(")/image","/image");
+      srx=srx.replace(/\?crc=.*/,"");
+      srx="+++require('"+srx+"')+++";
+      return srx;
+  }
   return jj;
 }
 async function getImageArr(imgs){
@@ -82,7 +88,7 @@ async function getImageArr(imgs){
       if(cls!=null && cls.indexOf("nonblock")>-1 ) continue;
       var dd=await getAttribute(element, 'innerHTML');
       if(dd.indexOf("simple")>-1) continue;
-      e["src"]="placeholder.png"+index;
+      e["src"]="+++require('../../../assets/pictures/placeholder.png')+++";
     }
     else{
       e["src"]=await getAttribute(img[0], 'src');
@@ -94,7 +100,7 @@ async function getImageArr(imgs){
 }
 async function analyze(ss){
   var s=ss||{};
-  //try {
+  try {
     //await page.screenshot({path: './debug/debug'+soru+'.png',fullPage:true});
     const content=await page.content();
     const shadowed = await page.$$('.rounded-corners');
@@ -132,9 +138,9 @@ async function analyze(ss){
     }
     
     await gotoHref(nonblocks[0]);
-  //} catch (error) {
-    //console.log(error);
-  //}
+  } catch (error) {
+    console.log(error);
+  }
   
 
   return s;
@@ -167,5 +173,5 @@ async function getQs(entry,qq)  {
     var entry=base+"0%20-%20Kopya%20("+element+")/q"+element+".1.html";
     await getQs(entry,element);
   }
-  fs.writeFileSync('./sorular.json', JSON.stringify(data));
+  fs.writeFileSync('./sorular.js', JSON.stringify(data).replace(/\"\+\+\+/g,"").replace(/\+\+\+\"/g,""));
 })();

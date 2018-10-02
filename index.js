@@ -50,6 +50,12 @@ async function gotoHref(element){
 async function getAttribute(element,attribute){
   const gg=await element.getProperty(attribute);
   const jj=await gg.jsonValue();
+  if(attribute=='src'){
+      let srx=jj.replace("file:///Users/mikail/Downloads/Bilsem%202018%20Final/uygulamaveorneks%C4%B1nav/","../../../assets/data/");
+      srx=srx.replace(/\?crc=.*/,"");
+      srx="+++require('"+srx+"')+++";
+      return srx;
+  }
   return jj;
 }
 async function getImageArr(imgs){
@@ -81,7 +87,7 @@ async function getImageArr(imgs){
       if(cls!=null && cls.indexOf("nonblock")>-1 ) continue;
       var dd=await getAttribute(element, 'innerHTML');
       if(dd.indexOf("simple")>-1) continue;
-      e["src"]="placeholder.png"+index;
+      e["src"]="+++require('../../../assets/pictures/placeholder.png')+++";
     }
     else{
       e["src"]=await getAttribute(img[0], 'src');
@@ -157,5 +163,6 @@ async function analyze(ss){
     soru++;
   }
   await browser.close();
-  fs.writeFileSync('./ornek.json', JSON.stringify(data));
+  fs.writeFileSync('./ornek.js', 
+  JSON.stringify(data).replace(/\"\+\+\+/g,"").replace(/\+\+\+\"/g,""));
 })();
