@@ -52,7 +52,7 @@ async function getAttribute(element,attribute){
   const gg=await element.getProperty(attribute);
   const jj=await gg.jsonValue();
   if(attribute=='src'){
-      let srx=jj.replace("file:///Users/mikail/Downloads/Bilsem%202018%20Final/0%20-%20Kopya%20(","../../../assets/data/").replace(")/image","/image");
+      let srx=jj.replace("file:///Users/mikail/Downloads/Bilsem%202018%20Final/0%20-%20Kopya%20(","../../assets/data/").replace(")/image","/image");
       srx=srx.replace(/\?crc=.*/,"");
       srx="+++require('"+srx+"')+++";
       return srx;
@@ -73,7 +73,7 @@ async function getImageArr(imgs){
 
     e.box=box;
 
-    if(cls==null || cls=="block"){
+    if(cls==null || cls=="block"||cls==""||cls=="grpelem"||cls=="colelem"||cls=="position_content"){
       e["src"]=await getAttribute(element, 'src');
       i.push(e);
       continue;
@@ -88,7 +88,7 @@ async function getImageArr(imgs){
       if(cls!=null && cls.indexOf("nonblock")>-1 ) continue;
       var dd=await getAttribute(element, 'innerHTML');
       if(dd.indexOf("simple")>-1) continue;
-      e["src"]="+++require('../../../assets/pictures/placeholder.png')+++";
+      e["src"]="+++require('../../assets/pictures/placeholder.png')+++";
     }
     else{
       e["src"]=await getAttribute(img[0], 'src');
@@ -98,7 +98,7 @@ async function getImageArr(imgs){
   }
   return i;
 }
-async function analyze(ss){
+async function analyze(ss,qq){
   var s=ss||{};
   try {
     //await page.screenshot({path: './debug/debug'+soru+'.png',fullPage:true});
@@ -112,7 +112,7 @@ async function analyze(ss){
     if (s.singlePage== null && answer>-1) {
         s.answer=content.substring(answer+7,answer+8);
         s.singlePage=true;
-        if(shadowed.length>0){
+        if(shadowed.length>0&& qq<50){
           s.questionImgs=cluster( await getImageArr(shadowed));
         }else if(imgs.length>0){
           s.questionImgs=cluster(await getImageArr(imgs));
@@ -121,7 +121,7 @@ async function analyze(ss){
     else if(s.singlePage!= null && !s.singlePage)
     {
        s.answer=content.substring(answer+7,answer+8);
-       if(shadowed.length>0){
+       if(shadowed.length>0&& qq<50){
           s.answerImgs=cluster(await getImageArr(shadowed));
         }else if(imgs.length>0){
           s.answerImgs=cluster(await getImageArr(imgs));
@@ -130,7 +130,7 @@ async function analyze(ss){
     else
     {
         s.singlePage=false;
-        if(shadowed.length>0){
+        if(shadowed.length>0 && qq<50){
           s.questionImgs=cluster(await getImageArr(shadowed));
         }else if(imgs.length>0){
           s.questionImgs=cluster(await getImageArr(imgs));
@@ -154,7 +154,7 @@ async function getQs(entry,qq)  {
   var k;
   var test=1;
   while(test<=15){
-    k=await analyze();
+    k=await analyze(null,qq);
     if(!k.singlePage){
       k=await analyze(k);
     }
@@ -168,10 +168,16 @@ async function getQs(entry,qq)  {
 };
 
 (async () => {
-  for (let i = 0; i < qs.length; i++) {
+  for (let i = 19; i < qs.length; i++) {
     const element = qs[i];
     var entry=base+"0%20-%20Kopya%20("+element+")/q"+element+".1.html";
     await getQs(entry,element);
   }
-  fs.writeFileSync('./sorular.js', JSON.stringify(data).replace(/\"\+\+\+/g,"").replace(/\+\+\+\"/g,""));
+  fs.writeFileSync('./sorular.js', JSON.stringify(data).replace(/\"\+\+\+/g,"")
+  .replace(/\+\+\+\"/g,"")
+  .replace(/%20/g," ")
+  .replace(/%c4%b1/g,"")
+  .replace(/%e2%80%99da-et-ihracatnda-sert-d%c3%bc%c5%9f%c3%bc%c5%9/g,"")
+  .replace(/105030%2c38--/g,"")
+  );
 })();

@@ -1,7 +1,7 @@
 const fs= require('fs');
 
 let data=[];
-let k="+++require('../../../assets/data/s/";
+let k="+++require('../../assets/data/s/";
 
 for (let i = 15; i <= 20 ; i++) {
        for (let j = 1; j <= 15 ; j++) {
@@ -11,7 +11,7 @@ for (let i = 15; i <= 20 ; i++) {
            var pics=[];
            pics.push(k+i+'.'+j+'.1.png\')+++');
            pics.push(k+i+'.'+j+'.2.png\')+++');
-           e.answerImgs=pics;
+           e.questionImgs=pics;
            e.singlePage=false;
            pics=[];
            var r=Math.ceil(Math.random()*4);
@@ -44,7 +44,7 @@ for (let i = 15; i <= 20 ; i++) {
                pics.push(k+i+'.'+j+'.3.png\')+++');
            }
 
-           e.questionImgs=pics;
+           e.answerImgs=pics;
            data.push(e);
         } 
     }
@@ -88,7 +88,7 @@ for (let i = 26; i <= 50 ; i++) {
                pics.push(k+i+'.'+j+'.2.png\')+++');
            }
 
-           e.questionImgs=pics;
+           e.answerImgs=pics;
            data.push(e);
         } 
     }
