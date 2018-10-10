@@ -12,7 +12,7 @@ var qs=[1 ,2 ,3, 4, 5, 6, 7 ,8 ,9, 10, 11 ,12 , 13 ,14, 21, 22 , 23, 24 ,25 ,51 
 function cluster(list){
     var colorIndex = 0;
     var g = list.sort(function(a,b){
-      if((a.box.y-15<=b.box.y)&&(b.box.y<=a.box.y+15)){
+      if((a.box.y-22<=b.box.y)&&(b.box.y<=a.box.y+15)){
         return a.box.x<b.box.x?-1:1;
       }
       return a.box.y<b.box.y?-1:1;
@@ -25,7 +25,7 @@ function cluster(list){
         for (var j =i-1 ; j >=0 ; j--)
         {
             var y = g[j].box; 
-            var vic = Math.ceil(Math.sqrt(y.height * y.width)/4);
+            var vic = Math.ceil(Math.sqrt(y.height * y.width)/5);
             if((y.x-vic <= x.x && y.x+y.width+vic >= x.x) &&
                 (y.y-vic <= x.y && y.y+y.height+vic >=x.y ))
             {
@@ -112,7 +112,7 @@ async function analyze(ss,qq){
     if (s.singlePage== null && answer>-1) {
         s.answer=content.substring(answer+7,answer+8);
         s.singlePage=true;
-        if(shadowed.length>0&& qq<50){
+        if(shadowed.length>0&& qq<23){
           s.questionImgs=cluster( await getImageArr(shadowed));
         }else if(imgs.length>0){
           s.questionImgs=cluster(await getImageArr(imgs));
@@ -168,7 +168,7 @@ async function getQs(entry,qq)  {
 };
 
 (async () => {
-  for (let i = 19; i < qs.length; i++) {
+  for (let i = 16; i < 19; i++) {//qs.length
     const element = qs[i];
     var entry=base+"0%20-%20Kopya%20("+element+")/q"+element+".1.html";
     await getQs(entry,element);
